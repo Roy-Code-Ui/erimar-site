@@ -1,5 +1,5 @@
-:HL["/erimar-site/_next/static/chunks/2jjtqnbe-ybw1.css","style"]
+:HL["/erimar-site/_next/static/chunks/08mk9x-7c0il-.css","style"]
 :HL["/erimar-site/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/erimar-site/_next/static/media/584c8da9fcd002ab-s.p.3w9z84ndk6pz3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/erimar-site/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"admin-preview","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"BF6SWpq45NbXKRE29M6mS"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"admin-preview","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"W-3VAtICJUhYxKZvk69MM"}
